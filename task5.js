@@ -10,4 +10,4 @@ let name = "Fluffy";
 let isLove = true;
 
 
-console.log(`I have ${cats} cats, their names are "${name}", and it’s ${isLove} I love them!`)
+console.log(`I have ${cats} cats, their names are "${name}", and it’s ${isLove} I love them!`);

@@ -6,11 +6,9 @@
 // Try mixing them in one sentence, e.g., I am a student: true, I like gaming, and my number is 42.
 
 var favNumber = 22;
-var isStudent = "Yes";
+var isStudent = true;
 var hobby = "Cooding";
 
 console.log(`My favourite Number is ${favNumber}`);
-if (isStudent === 'Yes'){
-    console.log(`True`);
-}else{console.log(`False`)};
-console.log(`My Hobby is ${hobby}`)
+console.log(`I am a student: ${isStudent}`);
+console.log(`My Hobby is ${hobby}`);
